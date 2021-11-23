@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Just a monkey working with bits and bytes</title>
+        <link>https://monkeywave.github.io/posts/</link>
+        <description>All Posts | Just a monkey working with bits and bytes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Nov 2021 13:56:44 &#43;0100</lastBuildDate><atom:link href="https://monkeywave.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Dylib_post</title>
+    <link>https://monkeywave.github.io/posts/first_post/</link>
+    <pubDate>Tue, 23 Nov 2021 13:56:44 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://monkeywave.github.io/posts/first_post/</guid>
+    <description><![CDATA[Here you can see the following content]]></description>
+</item></channel>
+</rss>
