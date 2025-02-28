@@ -1,0 +1,31 @@
+name: Deploy Hugo
+
+on:
+  push:
+    branches: [master]  # Match your existing branch name
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          ref: master  # Explicitly check out master branch
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.125.7'
+          extended: true
+
+      - name: Build
+        run: hugo --minify --baseURL "https://monkeywave.github.io/"
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages  # Will create this branch automatically
+          publish_dir: ./public
+          keep_files: false
