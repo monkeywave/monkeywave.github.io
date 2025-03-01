@@ -1,9 +1,9 @@
 +++
 title = "关于"
-description = "Hugo, 世上最快的站点构建框架"
-date = "2019-02-28"
+description = "热衷于自动化和优化逆向工程的移动安全研究员"
+date = "2025-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Daniel Baier"
 +++
 
 multilingual中文测试页面

@@ -14,7 +14,11 @@ theme = "tailwind"
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
-  
+
+  keywords = "reverse engineering, network forensics, tech, low-level, analysis, experiments, Linux, Android, exploitation"
+
+   logo = "logo.png"
+
 
 [menu]
 

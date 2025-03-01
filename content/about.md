@@ -1,25 +1,21 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "Mobile security researcher passionate about automating and optimizing reverse engineering."
+date = "2025-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Daniel Baier"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**Hi there!** 👋  
+I'm a mobile security researcher passionate about automating and optimizing reverse engineering. My work focuses on two key areas: **network decryption** and **mobile malware analysis**, with the goal of simplifying security analysis to lower the barriers for beginners and help make the world a safer and better place.  
+  
 
-Hugo makes use of a variety of open source projects including:
+🔭 **What I’m currently working on:**  
+- [friTap](https://github.com/fkie-cad/friTap) — A powerful tool to facilitate network decryption for (mobile) apps.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+  
+🌱 I’m constantly learning and exploring new ways to simplify TLS and end-to-end (E2E) decryption.  
+⚙️ My mission is to make security analysis more accessible, reduce the barriers to entry, and contribute to a safer, more secure world.
+👯 I’m always open to collaborating on cool new ideas related to mobile app analysis!  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you’d like to support my work, help me develop more tools, and contribute to a more transparent security landscape, feel free to [**buy me a coffee**](https://buymeacoffee.com/monkeywave) — every bit fuels the mission! ☕✨
