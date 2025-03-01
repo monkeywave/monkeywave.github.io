@@ -4,6 +4,7 @@ title = "Just a monkey working with bits and bytes"
 copyright = "Daniel Baier"
 pagination.pagerSize = 10
 author = "Daniel Baier"
+defaultContentLanguage = "en"
 theme = "tailwind"
 
 
@@ -18,7 +19,7 @@ theme = "tailwind"
   keywords = "reverse engineering, network forensics, tech, low-level, analysis, experiments, Linux, Android, exploitation"
 
   [params.header]
-   logo = "logo.png"
+   logo = "assets/logo.png"
 
 
 [menu]
