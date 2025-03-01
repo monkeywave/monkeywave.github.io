@@ -19,7 +19,7 @@ theme = "tailwind"
   keywords = "reverse engineering, network forensics, tech, low-level, analysis, experiments, Linux, Android, exploitation"
 
   [params.header]
-   logo = "assets/logo.png"
+   logo = "logo.png"
 
 
 [menu]
