@@ -1,7 +1,7 @@
 +++
-title = 'Hooking Boringssl on Android with friTap - Introducing BoringSecretHunter'
+title = 'Intercepting Android's Encrypted Traffic: Hooking BoringSSL with friTap'
 date = 2025-02-28T17:43:13+01:00
-description = "Demo of Hugo's image processing"
+description = "How to use BoringSecretHunter to facilitate hooking BoringSSL with friTap"
 author = "Daniel Baier"
 tags = ["TLS", "TLS Decryption"]
 keywords = ["SIEM", "ThreatDetection", "Sigma"]
