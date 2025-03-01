@@ -1,5 +1,5 @@
 +++
-title = "Intercepting Android\'s Encrypted Traffic: Hooking BoringSSL with friTap"
+title = "Intercepting Android's Encrypted Traffic: Hooking BoringSSL with friTap"
 date = 2025-02-28T17:43:13+01:00
 description = "How to use BoringSecretHunter to facilitate hooking BoringSSL with friTap"
 author = "Daniel Baier"
